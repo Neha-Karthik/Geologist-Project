@@ -1,1 +1,2 @@
-# geologist-project
+# MatterJSBoilerPlate
+MatterJSBoilerPlate
